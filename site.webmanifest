@@ -1,0 +1,15 @@
+{
+ "name": "City One Hotel & Spa",
+ "short_name": "City One",
+ "start_url": "index.html",
+ "display": "browser",
+ "background_color": "#17100c",
+ "theme_color": "#2a1d17",
+ "icons": [
+  {
+   "src": "assets/favicon.png",
+   "sizes": "any",
+   "type": "image/png"
+  }
+ ]
+}
